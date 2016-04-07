@@ -1,0 +1,1665 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>metadata</key>
+	<dict>
+		<key>lastUpdated</key>
+		<date>2016-03-30T05:20:27Z</date>
+	</dict>
+	<key>sessions</key>
+	<dict>
+		<key>r257</key>
+		<dict>
+			<key>active</key>
+			<true/>
+			<key>date</key>
+			<date>2016-04-09T12:30:00Z</date>
+			<key>duration</key>
+			<integer>0</integer>
+			<key>trackId</key>
+			<integer>0</integer>
+			<key>column</key>
+			<integer>1</integer>
+			<key>sessionNumber</key>
+			<integer>257</integer>
+			<key>title</key>
+			<string>Groovy Puzzlers S03 – The Unstoppable Puzzlers Hit Again!</string>
+			<key>sessionDescription</key>
+			<string></string>
+			<key>presenters</key>
+			<array>
+				<string>NoamTenne</string>
+			</array>
+			<key>roomId</key>
+			<integer>0</integer>
+		</dict>
+		<key>r253</key>
+		<dict>
+			<key>active</key>
+			<true/>
+			<key>date</key>
+			<date>2016-04-08T07:00:00Z</date>
+			<key>duration</key>
+			<integer>45</integer>
+			<key>trackId</key>
+			<integer>0</integer>
+			<key>column</key>
+			<integer>1</integer>
+			<key>sessionNumber</key>
+			<integer>253</integer>
+			<key>title</key>
+			<string>A Groovy Journey in Open Source</string>
+			<key>sessionDescription</key>
+			<string><![CDATA[In dog years… err… Open Source years, the Groovy programming language project is a very mature and successful one, as its 4.5 million downloads a year can attest. The Groovy language is certainly the most widely deployed alternative language of the JVM today. But how do we go from a hobby night &#038; week-end project to professionally company sponsored? And back again to hobby mode but joining the wider Apache Software Foundation community?
+Guillaume will guide you through the history of the project, its latest developments, and its recent news, outlining the importance of a community around an Open Source project.
+Also, we’ll discuss what it means to contribute, when it’s your hobby or as a paid committer — what does it change? What it means to join the Apache community, what the impact of professional Open Source is, and more.
+]]></string>
+			<key>presenters</key>
+			<array>
+				<string>glaforge</string>
+			</array>
+			<key>roomId</key>
+			<integer>0</integer>
+		</dict>
+		<key>r248</key>
+		<dict>
+			<key>active</key>
+			<true/>
+			<key>date</key>
+			<date>2016-04-08T08:00:00Z</date>
+			<key>duration</key>
+			<integer>45</integer>
+			<key>trackId</key>
+			<integer>0</integer>
+			<key>column</key>
+			<integer>1</integer>
+			<key>sessionNumber</key>
+			<integer>248</integer>
+			<key>title</key>
+			<string>The advantages of Grails</string>
+			<key>sessionDescription</key>
+			<string>In this presentation I will show some of the advantages of using the Grails framework.
+Grails is a web-framework built on the “shoulders of giants”. It acts as an easy, yet very powerful layer on top of Spring MVC, Hibernate and Sitemesh. It aims at developer speed by applying “convention over configuration”, sensible defaults and easy access to common functionality. It integrates easily with application containers (like Tomcat) on the JVM. Grails has a lively plugin community, where a wide variety of common functionality is captured.
+</string>
+			<key>presenters</key>
+			<array>
+				<string>sbglasius</string>
+			</array>
+			<key>roomId</key>
+			<integer>0</integer>
+		</dict>
+		<key>r245</key>
+		<dict>
+			<key>active</key>
+			<true/>
+			<key>date</key>
+			<date>2016-04-08T08:00:00Z</date>
+			<key>duration</key>
+			<integer>45</integer>
+			<key>trackId</key>
+			<integer>1</integer>
+			<key>column</key>
+			<integer>1</integer>
+			<key>sessionNumber</key>
+			<integer>245</integer>
+			<key>title</key>
+			<string>Ratpack in Practice</string>
+			<key>sessionDescription</key>
+			<string>You’ve seen all the getting started talks, even little bits about securing your Ratpack application. Now what? We will go over some best practices for organizing your applications. How to build libraries to easily share across different projects. We will also get into monitoring your Ratpack application. Lastly we will work through some things to think about when adapting both blocking libraries and non-blocking libraries with Ratpack.
+</string>
+			<key>presenters</key>
+			<array>
+				<string>beckje01</string>
+			</array>
+			<key>roomId</key>
+			<integer>1</integer>
+		</dict>
+		<key>r244</key>
+		<dict>
+			<key>active</key>
+			<true/>
+			<key>date</key>
+			<date>2016-04-08T09:15:00Z</date>
+			<key>duration</key>
+			<integer>45</integer>
+			<key>trackId</key>
+			<integer>0</integer>
+			<key>column</key>
+			<integer>1</integer>
+			<key>sessionNumber</key>
+			<integer>244</integer>
+			<key>title</key>
+			<string>Dockerize your Grails</string>
+			<key>sessionDescription</key>
+			<string>The containers and particularly Docker have been one of the buzzwords of the last years, but do they offer what they promise?
+In this talk will see a very quick an basic Docker 101 introduction and then will see how we can take advantages of all its features for developing and deploying our Grails applications.
+</string>
+			<key>presenters</key>
+			<array>
+				<string>ilopmar</string>
+			</array>
+			<key>roomId</key>
+			<integer>0</integer>
+		</dict>
+		<key>r242</key>
+		<dict>
+			<key>active</key>
+			<true/>
+			<key>date</key>
+			<date>2016-04-08T09:15:00Z</date>
+			<key>duration</key>
+			<integer>45</integer>
+			<key>trackId</key>
+			<integer>1</integer>
+			<key>column</key>
+			<integer>1</integer>
+			<key>sessionNumber</key>
+			<integer>242</integer>
+			<key>title</key>
+			<string>Geb for Browser Automation</string>
+			<key>sessionDescription</key>
+			<string>In this session, we will see how Geb can be used to automate the testing of your entire application by automating browser testing.
+Geb is build on top of Selenium WebDriver, but it brings together the power of WebDriver, the elegance of jQuery content selection,
+a robust page object modelling while using the expressiveness of Groovy and the power of Spock.
+We will se how to structure the tests to make them easy to maintain, and how we can interact with both the browser and an underlying Grails application (if needed).
+Finally, We will see how it is possible to interact with javascript on the webpage under test, and examples on what browser automation also can be used for.
+</string>
+			<key>presenters</key>
+			<array>
+				<string>JacobAae</string>
+			</array>
+			<key>roomId</key>
+			<integer>1</integer>
+		</dict>
+		<key>r239</key>
+		<dict>
+			<key>active</key>
+			<true/>
+			<key>date</key>
+			<date>2016-04-08T10:15:00Z</date>
+			<key>duration</key>
+			<integer>45</integer>
+			<key>trackId</key>
+			<integer>0</integer>
+			<key>column</key>
+			<integer>1</integer>
+			<key>sessionNumber</key>
+			<integer>239</integer>
+			<key>title</key>
+			<string>Testing in Grails 3</string>
+			<key>sessionDescription</key>
+			<string>Grails 3 has many powerful features related to unit, integration and functional tests. Grails 3
+maximizes the potential of tools like AST Transformations, the Gradle build tool, the Geb and Spock
+testing frameworks and many powerful features of the Groovy programming language. This session
+will describe and demonstrate many of these features.
+</string>
+			<key>presenters</key>
+			<array>
+				<string>jeffscottbrown</string>
+			</array>
+			<key>roomId</key>
+			<integer>0</integer>
+		</dict>
+		<key>r236</key>
+		<dict>
+			<key>active</key>
+			<true/>
+			<key>date</key>
+			<date>2016-04-08T10:15:00Z</date>
+			<key>duration</key>
+			<integer>45</integer>
+			<key>trackId</key>
+			<integer>1</integer>
+			<key>column</key>
+			<integer>1</integer>
+			<key>sessionNumber</key>
+			<integer>236</integer>
+			<key>title</key>
+			<string>Groovy Powered Clean Code</string>
+			<key>sessionDescription</key>
+			<string>“Clean Code” by Bob Martin is probably one of the most important practical documents out there; A must read for all developers, if you will. In this talk I will show how you can use Groovy and its rich ecosystem to apply the discussed principals, thus cleaning and vastly improving your codebase while still maintaining your sanity and joy.
+</string>
+			<key>presenters</key>
+			<array>
+				<string>NoamTenne</string>
+			</array>
+			<key>roomId</key>
+			<integer>1</integer>
+		</dict>
+		<key>r232</key>
+		<dict>
+			<key>active</key>
+			<true/>
+			<key>date</key>
+			<date>2016-04-08T12:00:00Z</date>
+			<key>duration</key>
+			<integer>45</integer>
+			<key>trackId</key>
+			<integer>1</integer>
+			<key>column</key>
+			<integer>1</integer>
+			<key>sessionNumber</key>
+			<integer>232</integer>
+			<key>title</key>
+			<string>Sshoogr for your infrastructure automation</string>
+			<key>sessionDescription</key>
+			<string>Infrastructure automation is not what most developers prefer to do, but when they do, they seek for simplicity. Sshoogr started as a simple SSH wrapper, but currently it is growing to become Ansible of Groovy. That allows to combine configuration, connectivity and state management of your servers and containers within a simple and readable DSL.
+</string>
+			<key>presenters</key>
+			<array>
+				<string>codingandrey</string>
+			</array>
+			<key>roomId</key>
+			<integer>1</integer>
+		</dict>
+		<key>r231</key>
+		<dict>
+			<key>active</key>
+			<true/>
+			<key>date</key>
+			<date>2016-04-08T12:00:00Z</date>
+			<key>duration</key>
+			<integer>45</integer>
+			<key>trackId</key>
+			<integer>0</integer>
+			<key>column</key>
+			<integer>1</integer>
+			<key>sessionNumber</key>
+			<integer>231</integer>
+			<key>title</key>
+			<string>Dynamic Gorm</string>
+			<key>sessionDescription</key>
+			<string>In this talk we’ll look “under the hood” at some of the internal features of the implementation of GORM, and implement some dynamic functionality to solve some interesting problems.
+</string>
+			<key>presenters</key>
+			<array>
+				<string>burtbeckwith</string>
+			</array>
+			<key>roomId</key>
+			<integer>0</integer>
+		</dict>
+		<key>r230</key>
+		<dict>
+			<key>active</key>
+			<true/>
+			<key>date</key>
+			<date>2016-04-08T13:00:00Z</date>
+			<key>duration</key>
+			<integer>45</integer>
+			<key>trackId</key>
+			<integer>0</integer>
+			<key>column</key>
+			<integer>1</integer>
+			<key>sessionNumber</key>
+			<integer>230</integer>
+			<key>title</key>
+			<string>Deep Dive into the Groovy Compiler</string>
+			<key>sessionDescription</key>
+			<string>Groovy is a compiled language for the JVM with a number of fascinating features: a language which is both dynamic and static, strongly or weakly typed, functional and imperative, supporting a modern type inference, DSLs, … How does that all come together? How, from a source file, do you end up with classes compiled and loaded at runtime? If terms like parsing, abstract syntax tree, type checking, type inference, bytecode or even verifier puzzle you, then this talk is made for you!
+</string>
+			<key>presenters</key>
+			<array>
+				<string>CedricChampeau</string>
+			</array>
+			<key>roomId</key>
+			<integer>0</integer>
+		</dict>
+		<key>r229</key>
+		<dict>
+			<key>active</key>
+			<true/>
+			<key>date</key>
+			<date>2016-04-08T13:00:00Z</date>
+			<key>duration</key>
+			<integer>45</integer>
+			<key>trackId</key>
+			<integer>1</integer>
+			<key>column</key>
+			<integer>1</integer>
+			<key>sessionNumber</key>
+			<integer>229</integer>
+			<key>title</key>
+			<string>Creating and Testing Rest Contracts with Accurest Gradle Plugin</string>
+			<key>sessionDescription</key>
+			<string>REST does not come with an in-built contract compliance mechanism, which in many ways is a great thing (no cumbersome xml schemas). However, while working with microservice-based systems, it often appears that a practical mechanism that would provide help in shaping and describing REST contracts would come in handy.
+Similarly, creating integration and acceptance tests in such systems presents many challenges. On one hand, we want to make the development and deployment of each service independent and agile, so we tend to use stubs, on the other hand, if we are not able to carry out proper E2E tests, we want to make sure that at any point in time, our stubs are in keeping with how are server actually responds to any given request.
+In this talk, I will present Accurest, a Gradle plugin that allows for both: easily shaping REST contracts and verifying if our app adheres to them using automatically generated Spock tests. I will show how, using Accurest, we can quickly generate automatically-tested stubs from simple Groovy DSL scripts. I will talk about the typical usages and script examples, as well as possible problems and ways of handling them.
+</string>
+			<key>presenters</key>
+			<array>
+				<string>olga_maciaszek</string>
+			</array>
+			<key>roomId</key>
+			<integer>1</integer>
+		</dict>
+		<key>r225</key>
+		<dict>
+			<key>active</key>
+			<true/>
+			<key>date</key>
+			<date>2016-04-08T14:00:00Z</date>
+			<key>duration</key>
+			<integer>45</integer>
+			<key>trackId</key>
+			<integer>0</integer>
+			<key>column</key>
+			<integer>1</integer>
+			<key>sessionNumber</key>
+			<integer>225</integer>
+			<key>title</key>
+			<string>Continuous Delivery as Code with Jenkins and Gradle</string>
+			<key>sessionDescription</key>
+			<string>Continuous Delivery enables building, testing and deploying of software through build pipelines faster and more frequently with a well known steps.
+But how to implement a continuous delivery pipeline in real world? How to translate the theory into practice?
+In this session we are going to discuss how Jenkins and Gradle can help you on build this pipeline/workflow and the advantages of implementing this pipeline as code instead of using Jenkins static build steps.
+We will start by a really simple Java EE application and learn how to build it with Gradle, automating unit, integration and functional tests, incorporating popular code quality tools, as well as packaging, publishing and deploying the deliverable using Jenkins Workflow as the director of the whole process.
+</string>
+			<key>presenters</key>
+			<array>
+				<string>alexsotob</string>
+			</array>
+			<key>roomId</key>
+			<integer>0</integer>
+		</dict>
+		<key>r221</key>
+		<dict>
+			<key>active</key>
+			<true/>
+			<key>date</key>
+			<date>2016-04-08T14:00:00Z</date>
+			<key>duration</key>
+			<integer>45</integer>
+			<key>trackId</key>
+			<integer>1</integer>
+			<key>column</key>
+			<integer>1</integer>
+			<key>sessionNumber</key>
+			<integer>221</integer>
+			<key>title</key>
+			<string>Reactive Streams and the wide world of Groovy</string>
+			<key>sessionDescription</key>
+			<string>The concept of Reactive Streams (aka Reactive Extensions, Reactive Functional Programming, or simply Rx) has become increasingly popular recently, and with good reason. The Reactive Streams specification provides a universal abstraction for asynchronously processing data received across multiple sources (e.g. database, user input, third-party services), and includes mechanisms for controlling the rate at which data is received. This makes it a powerful tool within a Microservice platform. And did we mention that the Groovy lang community is quite involved?
+In this talk we’ll explore the various features and concepts of Reactive Streams. We’ll talk about some typical use cases for Rx and more importantly, how to implement them. We’ll focus primarily on RxGroovy and Ratpack, then provide example implementations that show you how to get started with this powerful technique.
+</string>
+			<key>presenters</key>
+			<array>
+				<string>svpember</string>
+			</array>
+			<key>roomId</key>
+			<integer>1</integer>
+		</dict>
+		<key>r220</key>
+		<dict>
+			<key>active</key>
+			<true/>
+			<key>date</key>
+			<date>2016-04-08T15:15:00Z</date>
+			<key>duration</key>
+			<integer>15</integer>
+			<key>trackId</key>
+			<integer>0</integer>
+			<key>column</key>
+			<integer>1</integer>
+			<key>sessionNumber</key>
+			<integer>220</integer>
+			<key>title</key>
+			<string>Grooscript and Grails 3</string>
+			<key>sessionDescription</key>
+			<string>We will take a look at all the things you can do with grooscript in grails 3. With the gradle and grails plugin we will create a lot of javascript code. Than code is written and tested in groovy, but it runs in the client side as javascript.
+</string>
+			<key>presenters</key>
+			<array>
+				<string>jfrancoleza</string>
+			</array>
+			<key>roomId</key>
+			<integer>0</integer>
+		</dict>
+		<key>r219</key>
+		<dict>
+			<key>active</key>
+			<true/>
+			<key>date</key>
+			<date>2016-04-08T15:15:00Z</date>
+			<key>duration</key>
+			<integer>15</integer>
+			<key>trackId</key>
+			<integer>1</integer>
+			<key>column</key>
+			<integer>1</integer>
+			<key>sessionNumber</key>
+			<integer>219</integer>
+			<key>title</key>
+			<string>Down the RabbitMQ Hole</string>
+			<key>sessionDescription</key>
+			<string>RabbitMQ is a great infrastructure software, but there is a not very well known feature that allow us to create WebSockets applications its great STOMP integration.
+In this talk I’ll show how we can very easily create a very robust WebSocket application using RabbitMQ, Spring Integration and, of course, Groovy.
+</string>
+			<key>presenters</key>
+			<array>
+				<string>alotor</string>
+			</array>
+			<key>roomId</key>
+			<integer>1</integer>
+		</dict>
+		<key>r218</key>
+		<dict>
+			<key>active</key>
+			<true/>
+			<key>date</key>
+			<date>2016-04-08T15:45:00Z</date>
+			<key>duration</key>
+			<integer>15</integer>
+			<key>trackId</key>
+			<integer>1</integer>
+			<key>column</key>
+			<integer>1</integer>
+			<key>sessionNumber</key>
+			<integer>218</integer>
+			<key>title</key>
+			<string>Operating Microservices with Groovy</string>
+			<key>sessionDescription</key>
+			<string>When you are developing a microservices arquitecture, you often have to call some of them, for manual testing, scripting and/or operations. Given the dynamic nature of Groovy, could it be used to make easier these calls?
+* Could we call our services with a syntax shorter and more natural, instead of using long curls, but not losing the history capability of a shell?
+* Could we query the documentation of the operations in the same way?
+* Could we even have autocomplete features of our service operations, so that we don’t have to remember their names?
+* Could we do all this dynamically, without having to create a specific client for each service, but calling it as if it were?
+* Could we have a directory of available services, so that we don’t have to remember them?
+* Could this directory and the utility classes be updated automatically for all the team when someone makes a change, using a Git repository?
+You are invited to a journey through the mud, exploring features such as Groovy metaclasses, class loading, REST services, shell capabilities and AST transformations, and making some dark tricks to achieve what we want.
+</string>
+			<key>presenters</key>
+			<array>
+				<string>andres_viedma</string>
+			</array>
+			<key>roomId</key>
+			<integer>1</integer>
+		</dict>
+		<key>r215</key>
+		<dict>
+			<key>active</key>
+			<true/>
+			<key>date</key>
+			<date>2016-04-08T15:45:00Z</date>
+			<key>duration</key>
+			<integer>15</integer>
+			<key>trackId</key>
+			<integer>0</integer>
+			<key>column</key>
+			<integer>1</integer>
+			<key>sessionNumber</key>
+			<integer>215</integer>
+			<key>title</key>
+			<string>Rendering JSON with JSON views in Grails 3.1</string>
+			<key>sessionDescription</key>
+			<string>In this lighting talk we are going to talk about an amazing new feature included in Grails 3.1, the JSON views. This feature allows you to simplify how to render data in JSON format in a simple way, much more than using marshallers. Come to see this talk and when you leave, you’ll never want to use marshallers anymore.
+</string>
+			<key>presenters</key>
+			<array>
+				<string>quindimildev</string>
+			</array>
+			<key>roomId</key>
+			<integer>0</integer>
+		</dict>
+		<key>r212</key>
+		<dict>
+			<key>active</key>
+			<true/>
+			<key>date</key>
+			<date>2016-04-09T06:00:00Z</date>
+			<key>duration</key>
+			<integer>45</integer>
+			<key>trackId</key>
+			<integer>0</integer>
+			<key>column</key>
+			<integer>1</integer>
+			<key>sessionNumber</key>
+			<integer>212</integer>
+			<key>title</key>
+			<string>Grails Keynote</string>
+			<key>sessionDescription</key>
+			<string></string>
+			<key>presenters</key>
+			<array>
+				<string>graemerocher</string>
+			</array>
+			<key>roomId</key>
+			<integer>0</integer>
+		</dict>
+		<key>r211</key>
+		<dict>
+			<key>active</key>
+			<true/>
+			<key>date</key>
+			<date>2016-04-09T07:00:00Z</date>
+			<key>duration</key>
+			<integer>45</integer>
+			<key>trackId</key>
+			<integer>0</integer>
+			<key>column</key>
+			<integer>1</integer>
+			<key>sessionNumber</key>
+			<integer>211</integer>
+			<key>title</key>
+			<string>Mastering Grails 3 Plugins</string>
+			<key>sessionDescription</key>
+			<string>With Grails 3, the plugin development experience changes a little bit compared to that of Grails 2. In this talk, Álvaro (member of the Grails team at OCI, Grails committer and author of several plugins) will cover several topics to understand how plugins work in Grails 3, focusing on best practices.
+The session is structured as a set of tips and tricks with code samples in the following areas: modularisation, build system, testing and publishing.
+</string>
+			<key>presenters</key>
+			<array>
+				<string>alvaro_sanchez</string>
+			</array>
+			<key>roomId</key>
+			<integer>0</integer>
+		</dict>
+		<key>r210</key>
+		<dict>
+			<key>active</key>
+			<true/>
+			<key>date</key>
+			<date>2016-04-09T07:00:00Z</date>
+			<key>duration</key>
+			<integer>45</integer>
+			<key>trackId</key>
+			<integer>1</integer>
+			<key>column</key>
+			<integer>1</integer>
+			<key>sessionNumber</key>
+			<integer>210</integer>
+			<key>title</key>
+			<string>Fluent SQL with JOOQ</string>
+			<key>sessionDescription</key>
+			<string>Hibernate and other ORMs try to get developers to forget that SQL exists. Then you deal with Lazy Initialization Exceptions or “simple” queries running dozens of queries behind the scenes. JOOQ is a typesafe, fluent API for building sql queries directly in your code without resorting to string concatenation.
+JOOQ provides several features to make writing SQL less painful including POJO data binding, code generation for models and the active record pattern to skip writing simple CRUD sql. Additionally there are features that missing or difficult in ORMs like stored procedure support, mutli tenancy and hooks into the query lifecycle.
+Embrace SQL and leave your ORM behind.
+</string>
+			<key>presenters</key>
+			<array>
+				<string>kyleboon</string>
+			</array>
+			<key>roomId</key>
+			<integer>1</integer>
+		</dict>
+		<key>r207</key>
+		<dict>
+			<key>active</key>
+			<true/>
+			<key>date</key>
+			<date>2016-04-09T08:00:00Z</date>
+			<key>duration</key>
+			<integer>45</integer>
+			<key>trackId</key>
+			<integer>0</integer>
+			<key>column</key>
+			<integer>1</integer>
+			<key>sessionNumber</key>
+			<integer>207</integer>
+			<key>title</key>
+			<string>Spring Cloud's Groovy</string>
+			<key>sessionDescription</key>
+			<string>Groovy is awesome – that’s a fact. But did you know that Spring Cloud’s awesome too? If you’re going the microservice direction (and who isn’t today right?) then Spring Cloud gives you the toolset!
+Service Discovery and Registry (Zookeeper / Consul / Eureka), easy request sending with client side load balancing (Feign + Ribbon), request proxying with Zuul. A lot of people already know these features but not that many know about Spring Cloud Sleuth (the distributed tracing solution for your cloud) and Spring Cloud Stream (messaging between microservices has never been that easy!).
+In this presentation we’ll see a Groovy microserviced based system using the Spring Cloud tooling. We’ll focus on distributed tracing with Spring Cloud Sleuth and Zipkin.
+</string>
+			<key>presenters</key>
+			<array>
+				<string>MGrzejszczak</string>
+			</array>
+			<key>roomId</key>
+			<integer>0</integer>
+		</dict>
+		<key>r202</key>
+		<dict>
+			<key>active</key>
+			<true/>
+			<key>date</key>
+			<date>2016-04-09T08:00:00Z</date>
+			<key>duration</key>
+			<integer>45</integer>
+			<key>trackId</key>
+			<integer>1</integer>
+			<key>column</key>
+			<integer>1</integer>
+			<key>sessionNumber</key>
+			<integer>202</integer>
+			<key>title</key>
+			<string>Gradle Glam: Plugins Galore</string>
+			<key>sessionDescription</key>
+			<string>Plugins! Plugins! Plugins! Gradle can do awesome things by itself but you get more bang when you combine your build with plugins. In this talk we’ll discover how to keep dependencies nice and tidy with dependency-management and versions; update license headers with license; discover all the possibilities of binary packages with shadow, izpack and osspackage; find out binary incompatibilities between releases with clirr and japicmp; write great documentation with asciidoctor and jbake. These and more are up for grabs, come discover how to make the most of your gradle build with less effort.
+</string>
+			<key>presenters</key>
+			<array>
+				<string>aalmiray</string>
+			</array>
+			<key>roomId</key>
+			<integer>1</integer>
+		</dict>
+		<key>r200</key>
+		<dict>
+			<key>active</key>
+			<true/>
+			<key>date</key>
+			<date>2016-04-09T09:15:00Z</date>
+			<key>duration</key>
+			<integer>45</integer>
+			<key>trackId</key>
+			<integer>0</integer>
+			<key>column</key>
+			<integer>1</integer>
+			<key>sessionNumber</key>
+			<integer>200</integer>
+			<key>title</key>
+			<string>THE GR8 ROAD TO #FAME</string>
+			<key>sessionDescription</key>
+			<string><![CDATA[#fame: India’s first live streaming platform built on Grails (Mobile first)
+#fame is the India’s first mobile only Live streaming mobile platform. Where you can be both audience as well as performer. With a click on the app one can GO LIVE and show their talent to the world. The application is backed by the Micro service based architecture using Grails.
+So I am gonna talk about the how we architect the live streaming platform and how quickly we went bigger in terms of user base &#038; Traffic. What proactive measures were taken to make the application scalable.
+Till Date(13th Oct 2015) we have more than 11 Lakhs installs, 3 Lakh+ Registered users and still counting <img src="http://greach.botconf.com/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+Areas covered during the talk:
+What is Live stream?
+Some video domain terminology like RTSP, HLS, DVR, Player, Transcoding, Adaptive bitrate etc
+Architecture of the application
+Challenges faced while scaling the application
+Load stats and success stories
+How we used prediction.io for generating recommendations : Recommendation system on Grails
+]]></string>
+			<key>presenters</key>
+			<array>
+				<string>chandanluthra</string>
+			</array>
+			<key>roomId</key>
+			<integer>0</integer>
+		</dict>
+		<key>r196</key>
+		<dict>
+			<key>active</key>
+			<true/>
+			<key>date</key>
+			<date>2016-04-09T09:15:00Z</date>
+			<key>duration</key>
+			<integer>45</integer>
+			<key>trackId</key>
+			<integer>1</integer>
+			<key>column</key>
+			<integer>1</integer>
+			<key>sessionNumber</key>
+			<integer>196</integer>
+			<key>title</key>
+			<string>Creating AST's the painful truth?</string>
+			<key>sessionDescription</key>
+			<string><![CDATA[Developing ASTs have been always a path of pain and suffering, not to mention the darkness and mysticism around them. In this talk I’m trying to bring some light on them, Will I succeed? We’ll see &#x1f61b;
+]]></string>
+			<key>presenters</key>
+			<array>
+				<string>marioggar</string>
+			</array>
+			<key>roomId</key>
+			<integer>1</integer>
+		</dict>
+		<key>r195</key>
+		<dict>
+			<key>active</key>
+			<true/>
+			<key>date</key>
+			<date>2016-04-09T10:15:00Z</date>
+			<key>duration</key>
+			<integer>45</integer>
+			<key>trackId</key>
+			<integer>1</integer>
+			<key>column</key>
+			<integer>1</integer>
+			<key>sessionNumber</key>
+			<integer>195</integer>
+			<key>title</key>
+			<string>Make your AsciiDoctor Groovy</string>
+			<key>sessionDescription</key>
+			<string>AsciidoctorJ is the official library to run Asciidoctor on the JVM. It is used to convert AsciiDoc files to HTML, PDF or DocBook documents. AsciidoctorJ offers a simple extension mechanism which allows to add new features and capabilities to the conversion process.
+One such extension is the AsciidocJ screenshot plugin. It makes use of GEB to create screenshots of a web browser and adds them directly to the generated document. Automating the process of taking screenshots is yet another step towards a living documentation. And also one thing less to remember when doing a release.
+This session gives an introduction to the AsciidoctorJ extension mechanism and the power which can be unleashed when it is combined with Groovy. The screenshot extension is used to show, not just how simple it is to create an extension, but also why Groovy is the perfect tool for this job. Because nothing speaks as clearly as code, a basic version of the screenshot extension will be created live on stage. Showing both the simplicity and the power which Groovy offers as the extension language of choice.
+</string>
+			<key>presenters</key>
+			<array>
+				<string></string>
+			</array>
+			<key>roomId</key>
+			<integer>1</integer>
+		</dict>
+		<key>r192</key>
+		<dict>
+			<key>active</key>
+			<true/>
+			<key>date</key>
+			<date>2016-04-09T10:15:00Z</date>
+			<key>duration</key>
+			<integer>45</integer>
+			<key>trackId</key>
+			<integer>0</integer>
+			<key>column</key>
+			<integer>1</integer>
+			<key>sessionNumber</key>
+			<integer>192</integer>
+			<key>title</key>
+			<string>Testing in Ratpack</string>
+			<key>sessionDescription</key>
+			<string>Learn about various testing fixtures and integration with Ratpack.
+Unit testing
+Function testing
+Registry manipulation
+Remote control
+</string>
+			<key>presenters</key>
+			<array>
+				<string>Lspacewalker</string>
+			</array>
+			<key>roomId</key>
+			<integer>0</integer>
+		</dict>
+		<key>r189</key>
+		<dict>
+			<key>active</key>
+			<true/>
+			<key>date</key>
+			<date>2016-04-09T12:00:00Z</date>
+			<key>duration</key>
+			<integer>15</integer>
+			<key>trackId</key>
+			<integer>0</integer>
+			<key>column</key>
+			<integer>1</integer>
+			<key>sessionNumber</key>
+			<integer>189</integer>
+			<key>title</key>
+			<string>Raml, Specification to documentation and testing</string>
+			<key>sessionDescription</key>
+			<string>RESTful API Modeling Language (RAML), is a specification that looks like YAML and makes easy to manage the API lifecycle. In short, in this lightning talk, I show how to use RAML in documentation and testing with Spock
+</string>
+			<key>presenters</key>
+			<array>
+				<string>fatimacasau</string>
+			</array>
+			<key>roomId</key>
+			<integer>0</integer>
+		</dict>
+		<key>r188</key>
+		<dict>
+			<key>active</key>
+			<true/>
+			<key>date</key>
+			<date>2016-04-09T12:00:00Z</date>
+			<key>duration</key>
+			<integer>15</integer>
+			<key>trackId</key>
+			<integer>1</integer>
+			<key>column</key>
+			<integer>1</integer>
+			<key>sessionNumber</key>
+			<integer>188</integer>
+			<key>title</key>
+			<string>Shut and Give me your Money!!</string>
+			<key>sessionDescription</key>
+			<string>Ticketbis is a marketplace that operates as an exchanger for buying and selling tickets to events in Europe, Latin America, and Asia. Due to all this diversity we built the Money Plugin, first to be representative as a domain concept of our business but more importantly to encapsulate and be a container for all the business logic around things like currency exchanges, rates, Manage accuracy, avoid operating between different currencies… If all these concepts are familiar to you, shut up and give me your Money!!
+</string>
+			<key>presenters</key>
+			<array>
+				<string>xala3pa</string>
+			</array>
+			<key>roomId</key>
+			<integer>1</integer>
+		</dict>
+	</dict>
+	<key>people</key>
+	<dict>
+		<key>glaforge</key>
+		<dict>
+			<key>active</key>
+			<true/>
+			<key>first</key>
+			<string>Guillaume</string>
+			<key>last</key>
+			<string>Laforge</string>
+			<key>twitter</key>
+			<string>glaforge</string>
+			<key>bio</key>
+			<string>Since 2003, Guillaume Laforge has been working on the Groovy programming language project. First at Codehaus, and since 2015, at the Apache Software Foundation, where Guillaume is the chair of the Apache Groovy project. He also co-authored Groovy in Action, for Manning.
+Besides Groovy, Guillaume is Project Manager and Developer Advocate at Restlet, a company focusing on Web API tools and online services.
+</string>
+		</dict>
+		<key>sbglasius</key>
+		<dict>
+			<key>active</key>
+			<true/>
+			<key>first</key>
+			<string>SØREN</string>
+			<key>last</key>
+			<string>Berg Glasius</string>
+			<key>twitter</key>
+			<string>sbglasius</string>
+			<key>bio</key>
+			<string>I am the co-founder of GR8Conf and your friendly organizer of GR8Conf Europe… In 2009 Guillaume Laforge and I founded the GR8Conf. It was a gr8 success – with over 100 attendees from 17 countries around the world. Now seven years later, GR8Conf is still going stronger. Besides doing GR8Conf, Søren works for OCI – the home of Grails, where he everyday gets to work with his passion: Groovy and Grails. I have worked in the Java world for over 13 years, and have a gr8 passion for Groovy, Grails, Griffon and the other gr8 technologies.
+</string>
+		</dict>
+		<key>JacobAae</key>
+		<dict>
+			<key>active</key>
+			<true/>
+			<key>first</key>
+			<string>Jacob</string>
+			<key>last</key>
+			<string>Aae Mikkelsen</string>
+			<key>twitter</key>
+			<string>JacobAae</string>
+			<key>bio</key>
+			<string>Jacob is a senior software engineer with the Lego Group, working with a new micro service based digital platform for Lego Education. He has been working full time with Groovy based technologies the last 4 years, including an extended period programming core libraries for the Danish Business Authority in Grails (while with Gennemtænkt IT).
+He’s been on the crew arranging GR8conf Europe for several years, and each week, blogging the Grails Diary with news from the community, and have taught a university level course on “Web development with Groovy and Grails”.
+</string>
+		</dict>
+		<key>jeffscottbrown</key>
+		<dict>
+			<key>active</key>
+			<true/>
+			<key>first</key>
+			<string>Jeff</string>
+			<key>last</key>
+			<string>Brown</string>
+			<key>twitter</key>
+			<string>jeffscottbrown</string>
+			<key>bio</key>
+			<string>Jeff Scott Brown is the Grails Practice Lead at OCI. Jeff is a senior member of the the Grails core team, and has deep expertise in Grails, Groovy, Web Development, Dynamic Languages and the JVM.
+He has spoken internationally and co-authored (with Graeme Rocher) “The Definitive Guide to Grails” (Apress – http://apress.com/book/view/1590599950).
+Find out more on Ociweb.com and http://grails.org.
+</string>
+		</dict>
+		<key>NoamTenne</key>
+		<dict>
+			<key>active</key>
+			<true/>
+			<key>first</key>
+			<string>Noam</string>
+			<key>last</key>
+			<string>Tenne</string>
+			<key>twitter</key>
+			<string>NoamTenne</string>
+			<key>bio</key>
+			<string>A hacker-hearted software developer. Has been programming on the JVM for the past 12 years on both cloud based and on-premise platforms, gaining much experience in building scalable, mission critical web applications and microservices. Now mostly involved and active in the Groovy community.
+</string>
+		</dict>
+		<key>olga_maciaszek</key>
+		<dict>
+			<key>active</key>
+			<true/>
+			<key>first</key>
+			<string>Olga</string>
+			<key>last</key>
+			<string>Maciaszek-Sharma</string>
+			<key>twitter</key>
+			<string>olga_maciaszek</string>
+			<key>bio</key>
+			<string>Olga Maciaszek-Sharma is a Java and Groovy Developer at Codearte. She has gained her experience while working with microservices where cutting-edge solutions were used as well as with complex legacy systems, implementing both new business features and solutions aimed at improving the process of continuous deployment and setup of applications. Olga is also a contributor of the OSS projects: Accurest, JFairy, Jenkins Stash Pull Request Builder Plugin and a few others.
+Before switching to development, she worked for more than 3 years as Quality Assurance Engineer, specialized in test automation.
+</string>
+		</dict>
+		<key>alexsotob</key>
+		<dict>
+			<key>active</key>
+			<true/>
+			<key>first</key>
+			<string>Alex</string>
+			<key>last</key>
+			<string>Soto Bueno</string>
+			<key>twitter</key>
+			<string>alexsotob</string>
+			<key>bio</key>
+			<string>Alex is a software engineer at CloudBees. He is a passionate of Java world and he believes in the open source software model.
+Alex is the creator of NoSQLUnit project and team member of Arquillian, Asciidoctor and Apache TomEE projects. He is a member of JSR374 (Java API for JSON Processing) Expert Group and coordinator at Barcelona JUG. Currently Alex is co-writing Arquillian in Action book for Manning and he is an international speaker presenting his talks at software conferences like Devoxx, JavaOne, JavaZone or GeeCon.
+</string>
+		</dict>
+		<key>andres_viedma</key>
+		<dict>
+			<key>active</key>
+			<true/>
+			<key>first</key>
+			<string>Andrés</string>
+			<key>last</key>
+			<string>Viedma</string>
+			<key>twitter</key>
+			<string>andres_viedma</string>
+			<key>bio</key>
+			<string></string>
+		</dict>
+		<key>quindimildev</key>
+		<dict>
+			<key>active</key>
+			<true/>
+			<key>first</key>
+			<string>Manuel</string>
+			<key>last</key>
+			<string>Quindimil López</string>
+			<key>twitter</key>
+			<string>quindimildev</string>
+			<key>bio</key>
+			<string>Manuel is a passionate and in love with Grails, having been working with this framework for many years, sharing his heart with UX experience and front-end techs.
+</string>
+		</dict>
+		<key>kyleboon</key>
+		<dict>
+			<key>active</key>
+			<true/>
+			<key>first</key>
+			<string>Kyle</string>
+			<key>last</key>
+			<string>Boon</string>
+			<key>twitter</key>
+			<string>kyleboon</string>
+			<key>bio</key>
+			<string>Kyle Boon is a Senior Software Engineer for SmartThings in Minneapolis, MN. He has been developing web applications professionally for the last 12 years. Kyle is passionate about building scalable, maintainable, robust software systems and having fun while doing so. When not programming he obsesses over Ohio State football, golfs poorly, and rides bikes.
+</string>
+		</dict>
+		<key>MGrzejszczak</key>
+		<dict>
+			<key>active</key>
+			<true/>
+			<key>first</key>
+			<string>Marcin</string>
+			<key>last</key>
+			<string>Grzejzczak</string>
+			<key>twitter</key>
+			<string>MGrzejszczak</string>
+			<key>bio</key>
+			<string>Enthusiast of clean coding and good design. Author of “Mockito Instant” and “Mockito Cookbook” books. Contributor to several open source projects (including Rest-assured, Drools, Moco, Mockito). Co-author of the Groovy @Builder, “micro-infra-spring”, “spring-cloud-zookeeper”, “spring-cloud-sleuth” microservices related open source solutions. Author of Uptodate Gradle plugin, Spock subjects-collaborators extension and gradle-test-profiler open source projects. Co-founder of the Warsaw Groovy User Group. A member of the Most Valuable Blogger program at DZone and Java Code Geek
+</string>
+		</dict>
+		<key>chandanluthra</key>
+		<dict>
+			<key>active</key>
+			<true/>
+			<key>first</key>
+			<string>Chandan</string>
+			<key>last</key>
+			<string>Luthra</string>
+			<key>twitter</key>
+			<string>chandanluthra</string>
+			<key>bio</key>
+			<string><![CDATA[Chandan Luthra: Architect at ToTheNew-Digital (Formerly Intelligrape softwares)
+Chandan is a Java, Grails, Linux and open-source fanatic with vast experience in various technologies like Core Java &#038; J2EE applications and Documentum. He has architected many Grails based web applications across various industries. He is fond of coding in jQuery with Firebug, and has authored two of books on “Firebug”. He is also fond of writing blogs, articles and authored Plugin series column in “The Groovy Mag” &#038; “JavaScript Mag”
+]]></string>
+		</dict>
+		<key></key>
+		<dict>
+			<key>active</key>
+			<true/>
+			<key>first</key>
+			<string>Markus</string>
+			<key>last</key>
+			<string>Schlichting</string>
+			<key>twitter</key>
+			<string></string>
+			<key>bio</key>
+			<string>Markus works a Software Engineer at Canoo Engineering in Basel. He is passionate about agile methods, software engineering and open source.
+Markus currently organizes the Hackergarten in Basel and in his spare time he likes to ride his Motorbike in the fresh alpine air.
+</string>
+		</dict>
+		<key>Lspacewalker</key>
+		<dict>
+			<key>active</key>
+			<true/>
+			<key>first</key>
+			<string>Daniel</string>
+			<key>last</key>
+			<string>Hyun</string>
+			<key>twitter</key>
+			<string>Lspacewalker</string>
+			<key>bio</key>
+			<string>Groovy ✓
+Java ✓
+Ratpack ✓
+Beer ✓
+</string>
+		</dict>
+		<key>xala3pa</key>
+		<dict>
+			<key>active</key>
+			<true/>
+			<key>first</key>
+			<string>Alvaro</string>
+			<key>last</key>
+			<string>Salazar</string>
+			<key>twitter</key>
+			<string>xala3pa</string>
+			<key>bio</key>
+			<string>With more 10 years of experience, Alvaro has worked in good variety of projects and for companies of all sizes, both in the public and private sector.Passionate about software development and always thinking about learning and trying new things, Alvaro is a firm believer that magic always happens when he is out of his comfort zone.You can easily find Alvaro with a book in his hands or testing a new library.
+</string>
+		</dict>
+		<key>jorgeuriarte</key>
+		<dict>
+			<key>active</key>
+			<true/>
+			<key>first</key>
+			<string>Jorge</string>
+			<key>last</key>
+			<string>Uriarte</string>
+			<key>twitter</key>
+			<string>jorgeuriarte</string>
+			<key>bio</key>
+			<string>Jorge is a programmer. Not a particularly good one, truth to be told.
+If anything, he’s proud of his ability to fail, learn from his errors, and somehow help others to learn while sharing the road ahead.
+With the years, he’s turned his career toward coaching, and consider himself more like a guide, or even a pathfinder. Helps teams to keep pushing toward their goal while trying to run into as few stones as possible in the road, and learning everything new with every bump.
+He’s also a believer of the “Good enough is good enough when it’s easy to change tomorrow” religion.
+He’s been using, teaching, spreading Groovy related technologies for the last 6 years.
+</string>
+		</dict>
+		<key>davidthecoder</key>
+		<dict>
+			<key>active</key>
+			<true/>
+			<key>first</key>
+			<string>David</string>
+			<key>last</key>
+			<string>Dawson</string>
+			<key>twitter</key>
+			<string>davidthecoder</string>
+			<key>bio</key>
+			<string>David Dawson is CEO at Simplicity Itself and works with their clients to continuously and sustainably delivering valuable software. He has worked in software development for 10 years, crossing banking, utilities, retail, virtualisation, from low latency messaging to rich web clients and has improved and automated himself out of several roles in that time.
+He has a particular interest in seeing software development as a discipline, that a development process should be both happy, and ‘safe’, and a passionate belief that the best solution is almost always the simplest (but no more simple than that!)
+If you want to discuss multi layered testing strategies, Groovy, CI or the flaws inherent in stateless services…buy him a beer and he’ll happily debate till morning.
+</string>
+		</dict>
+		<key>musketyr</key>
+		<dict>
+			<key>active</key>
+			<true/>
+			<key>first</key>
+			<string>Vladimir</string>
+			<key>last</key>
+			<string>Orany</string>
+			<key>twitter</key>
+			<string>musketyr</string>
+			<key>bio</key>
+			<string>Vladimir is Independent Software Engineer and Gaelyk Project Lead. He is interested in domain specific languages, cloud computing and writing magical code using AST transformations.
+</string>
+		</dict>
+		<key>graemerocher</key>
+		<dict>
+			<key>active</key>
+			<true/>
+			<key>first</key>
+			<string>Graeme</string>
+			<key>last</key>
+			<string>Rocher</string>
+			<key>twitter</key>
+			<string>graemerocher</string>
+			<key>bio</key>
+			<string>Graeme Rocher is the project lead and co-founder of the Grails web application framework. He’s a member of the JSR-241 Expert Group which standardizes the Groovy language. Graeme authored the Definitive Guide to Grails for Apress and is a frequent speaker at JavaOne, JavaPolis, NoFluffJustStuff, JAOO, the Sun TechDays and more.
+Before founding G2One, Inc., Graeme was the CTO of SkillsMatter, a skills transfer company specializing in Open Source technology and agile software development, where Graeme was in charge of the company’s courseware development strategy and general technical direction. After SpringSource acquired G2One, Graeme is now the Head of Grails Development.
+</string>
+		</dict>
+		<key>marcinerdmann</key>
+		<dict>
+			<key>active</key>
+			<true/>
+			<key>first</key>
+			<string>Marcin</string>
+			<key>last</key>
+			<string>Erdmann</string>
+			<key>twitter</key>
+			<string>marcinerdmann</string>
+			<key>bio</key>
+			<string>I’ve become interested in Groovy while working in Berlin in spring 2010. I liked it so much that I decided to shift my career towards web development with Grails. I’m really happy to have made that decision back then as Groovy ecosystem is not only full of good projects but it’s also full of friendly and outstanding developers. That’s why I like going to conferences focused on Groovy and sometimes even become a speaker at them.
+I believe in Open Source Software and have a strong need to give back to the community whenever possible especially as I make a living using Grails which is an open source project. That’s why I’m proud to be one of the core commiters of Geb. I’ve also managed to get few pull requests accepted into many Groovy ecosystem projects like Grails, Gaelyk and Codenarc to name a few.
+I’ve worked in four different countries (Poland, Germany, The Netherlands, United Kingdom) with different technologies and languages (from Java through Javascript, Python and Ruby to Groovy) and developed my skills over the years. I believe that software should not only work, but also has to be ‘beautiful under the hood’, maintainable, well-tested and the source code should be clean and consistent. And I can’t imagine coding without doing TDD anymore…
+</string>
+		</dict>
+		<key>fabricematrat</key>
+		<dict>
+			<key>active</key>
+			<true/>
+			<key>first</key>
+			<string>Fabrice</string>
+			<key>last</key>
+			<string>Matrat</string>
+			<key>twitter</key>
+			<string>fabricematrat</string>
+			<key>bio</key>
+			<string>Fabrice Matrat (Porthos), obscessed with asynchronous behavior, is currently Senior Architect for Amadeus with more than 15 years in bank, multimedia, insurance, travel industry.
+</string>
+		</dict>
+		<key>dani_latorre</key>
+		<dict>
+			<key>active</key>
+			<true/>
+			<key>first</key>
+			<string>Dani</string>
+			<key>last</key>
+			<string>Latorre</string>
+			<key>twitter</key>
+			<string>dani_latorre</string>
+			<key>bio</key>
+			<string>I’m working as software developmente around 8 years. During this time I’ve dedicated primarily to web applications development, for internet projects and enterprise applications. I’m programmer and founder of Jobsket, maybe the first spanish startup to bet on Groovy and Grails. Nowadays I work as freelance/contractor helping another startups in their product development and creating my own products.
+</string>
+		</dict>
+		<key>roberto_mf</key>
+		<dict>
+			<key>active</key>
+			<true/>
+			<key>first</key>
+			<string>Roberto</string>
+			<key>last</key>
+			<string>Martín</string>
+			<key>twitter</key>
+			<string>roberto_mf</string>
+			<key>bio</key>
+			<string></string>
+		</dict>
+		<key>albertovilches</key>
+		<dict>
+			<key>active</key>
+			<true/>
+			<key>first</key>
+			<string>Alberto</string>
+			<key>last</key>
+			<string>Vilches</string>
+			<key>twitter</key>
+			<string>albertovilches</string>
+			<key>bio</key>
+			<string></string>
+		</dict>
+		<key>smaldini</key>
+		<dict>
+			<key>active</key>
+			<true/>
+			<key>first</key>
+			<string>Stephane</string>
+			<key>last</key>
+			<string>Maldini</string>
+			<key>twitter</key>
+			<string>smaldini</string>
+			<key>bio</key>
+			<string>A software architect and consultant at SpringSource with extensive experience aligning Spring technologies. He is passionate about cloud computing, messaging and works on several projects implementing Spring Integration, RabbitMQ, Gemfire, or related technologies.
+Using Groovy and Grails since early 2008, he has developed large-scale Grails applications for the French Government and international IT. he has also co-founded the iceScrum agile tool tracker, an open source Grails application for agile teams. He still invests his spare time in the Grails community through the development of several Grails plugins, and in his contributions to the French Groovy/Grails User Group.
+</string>
+		</dict>
+		<key>CedricChampeau</key>
+		<dict>
+			<key>active</key>
+			<true/>
+			<key>first</key>
+			<string>Cédric</string>
+			<key>last</key>
+			<string>Champeau</string>
+			<key>twitter</key>
+			<string>CedricChampeau</string>
+			<key>bio</key>
+			<string>Cédric Champeau is a core Groovy committer. He joined SpringSource, a division of VMware, in order to help developing the language. Prior to that, he spent several years at Lingway, a software editor, where he used Groovy in multiple industrial contexts including DSLs for natural language processing, scripting or even workflows.
+He his currently working on the implementation of static type checking and static compilation for Groovy 2.0.
+</string>
+		</dict>
+		<key>corinnekrych</key>
+		<dict>
+			<key>active</key>
+			<true/>
+			<key>first</key>
+			<string>Corinne</string>
+			<key>last</key>
+			<string>Krych</string>
+			<key>twitter</key>
+			<string>corinnekrych</string>
+			<key>bio</key>
+			<string>With over XX years of experience in development (when you like it you don’t count), Corinne is addicted to code and can’t go very far from it. Freelance since 1999, she traveled from C++ to Java, J2EE, Spring, Struts, JSP, Web 2.0 and naturally made her path to Groovy. Being an Agile coach and practitioner, she thinks code is craft and collaboration is key to success.
+Chatting about the latest tech trends at coffee break: a female geek – what do you expect – she’s always curious to discover (or rediscover) languages a
+</string>
+		</dict>
+		<key>sebi2706</key>
+		<dict>
+			<key>active</key>
+			<true/>
+			<key>first</key>
+			<string>Sébastien</string>
+			<key>last</key>
+			<string>Blanc</string>
+			<key>twitter</key>
+			<string>sebi2706</string>
+			<key>bio</key>
+			<string>Sébastien Blanc is JEE engineer with 8 years of experience. After spending 7 years in the Netherlands as Software Engineer, he decided to back to the his roots in the South of France. He recently joined the AeroGear team with Red Hat to work on open source libraries for Mobile in the enterprise.
+Besides his “heavy” JEE profile (middleware, banking and insurance products) Sébastien spends a lot of time in Groovy and Grails. He is the author of several Grails plugins such as Spring Mobile, Jquery Mobile Scaffolding or Geolocation. He believes that Mobile Web Apps are the future and tries to evangelize this through different conferences (Gr8Conf, Devoxx, RivieraDev, Grails Exchange).
+</string>
+		</dict>
+		<key>mathbruyen</key>
+		<dict>
+			<key>active</key>
+			<true/>
+			<key>first</key>
+			<string>Mathieu</string>
+			<key>last</key>
+			<string>Bruyen</string>
+			<key>twitter</key>
+			<string>mathbruyen</string>
+			<key>bio</key>
+			<string>Java/Groovy programmer for the living: consultant at Amadeus in an agile team building a customization framework for customers to hook in the logic and user interface of e-commerce products. Hooks are uploaded and hot reloaded in the JVM using Groovy. UI is designed using Amadeus’s AriaTemplates open source framework.
+When it comes to playing at night, alternate JVM languages and web technologies come from darkness. Love to understand the internals of what I use to then use a framework abstracting the annoying bits. Algorithmics, maths and a bit of DIY welcome too.
+</string>
+		</dict>
+		<key>chozero</key>
+		<dict>
+			<key>active</key>
+			<true/>
+			<key>first</key>
+			<string>Tanasú</string>
+			<key>last</key>
+			<string>Cerdeña</string>
+			<key>twitter</key>
+			<string>chozero</string>
+			<key>bio</key>
+			<string>Software developer with a heavy background in systems administration. I’ve worked for small companies developing in Java and discovered Grails a couple of years ago and fall in love with it.
+Currently I’m CTO and co-founder at Geosophic, a company that offers online location services and analytics for 
+</string>
+		</dict>
+		<key>Ruuben4</key>
+		<dict>
+			<key>active</key>
+			<true/>
+			<key>first</key>
+			<string>Rubén</string>
+			<key>last</key>
+			<string>Mondéjar Andreu</string>
+			<key>twitter</key>
+			<string>Ruuben4</string>
+			<key>bio</key>
+			<string>Rubén is a Senior Software Engineer and Software Architect currently working at Diputació de Tarragona (DIPTA).
+His current work is mainly focused on web development projects related to business process management, mainly using Groovy and Grails and Developer-Friendly BPM Solutions.
+He is also working as an Adjunct Professor for the Universitat Rovira i Virgili teaching courses of Software Architectures, Workflows, and Web Development, and as a Research Collaborator in the AST Group.
+</string>
+		</dict>
+		<key>mrhaki</key>
+		<dict>
+			<key>active</key>
+			<true/>
+			<key>first</key>
+			<string>Hubert</string>
+			<key>last</key>
+			<string>Klein Ikkink</string>
+			<key>twitter</key>
+			<string>mrhaki</string>
+			<key>bio</key>
+			<string>Hubert Klein Ikkink is also known as mrhaki. He uses this alias to write on his blog “Messages from mrhaki”. On this blog he writes short tips and tricks about Groovy features in the “Groovy Goodness” series. Hubert started to develop Java applications more than a decade ago. Six years ago he started to explore Groovy and Grails in personal projects, because of the dynamic nature of Groovy and the speed of development. Today he works with Groovy and Grails during his daytime job at JDriven in the Netherlands.
+</string>
+		</dict>
+		<key>marioggar</key>
+		<dict>
+			<key>active</key>
+			<true/>
+			<key>first</key>
+			<string>Mario</string>
+			<key>last</key>
+			<string>García</string>
+			<key>twitter</key>
+			<string>marioggar</string>
+			<key>bio</key>
+			<string>My name is Mario Garcia and I’ve been Java developer for 8 years and Groovy developer since 2010. Member of some Groovy User Groups (MadridGUG and DublinGUG) and also member of the Madrid Java User Group.
+At the moment happily working with Groovy at work, always trying to find new ways of using it.
+</string>
+		</dict>
+		<key>adelatorrefoss</key>
+		<dict>
+			<key>active</key>
+			<true/>
+			<key>first</key>
+			<string>Antonio</string>
+			<key>last</key>
+			<string>de la Torre</string>
+			<key>twitter</key>
+			<string>adelatorrefoss</string>
+			<key>bio</key>
+			<string><![CDATA[Web Developer and Agile Evangelist at Kaleidos, a software development startup of which he is a co-founder.
+Educated as Computer Scientist, after several positions in top IT companies, he found his place amongst a group of professionals not interested in their role in the company but in creating beautiful code. This tribe blended their new way of understanding the software development craft by founding Kaleidos in 2011. They recently spun off their first child: Taiga, the next must-have agile project management tool.
+Today, still wanted by the market, he survives as a Groovy &#038; Grails soldier of fortune. In his free time he dreams about the best integration of all profiles in the development A-team, especially BA-style designers. He can only be bothered by continuous improvement activities or to get some Agile coaching cracking.
+]]></string>
+		</dict>
+		<key>aalmiray</key>
+		<dict>
+			<key>active</key>
+			<true/>
+			<key>first</key>
+			<string>Andres</string>
+			<key>last</key>
+			<string>Almiray</string>
+			<key>twitter</key>
+			<string>aalmiray</string>
+			<key>bio</key>
+			<string>Andres is a Java/Groovy developer and Java Champion, with more than 15 years of experience in software design and development. He has been involved in web and desktop application developments since the early days of Java. He is a true believer of open source and has participated in popular projects like Groovy, Griffon, JMatter and DbUnit, as well as starting his own projects (Json-lib, EZMorph, GraphicsBuilder, JideBuilder). Founding member and current project lead of the Griffon framework.
+</string>
+		</dict>
+		<key>jfrancoleza</key>
+		<dict>
+			<key>active</key>
+			<true/>
+			<key>first</key>
+			<string>Jorge</string>
+			<key>last</key>
+			<string>Franco</string>
+			<key>twitter</key>
+			<string>jfrancoleza</string>
+			<key>bio</key>
+			<string>More than 12 years developing, from Delphi to Java, and now Groovy. After some years slacking with my code, in last 3 years I have begun to worry about it, and try to do things better each day. Now, I’m working at Osoco in Madrid, and thanks to my mates there, I’m learning a lot each day.
+</string>
+		</dict>
+		<key>goeh</key>
+		<dict>
+			<key>active</key>
+			<true/>
+			<key>first</key>
+			<string>Göran</string>
+			<key>last</key>
+			<string>Ehrsson</string>
+			<key>twitter</key>
+			<string>goeh</string>
+			<key>bio</key>
+			<string>Göran Ehrsson has been a software developer for 25 years, most of that as an enterprise developer building customer relationship management (CRM) applications in proprietary languages, C++, Java, and the last 5 years in Groovy.
+He is the founder of Technipelago AB, a small company based in Stockholm, Sweden that develops custom CRM applications for small and medium sized businesses.
+</string>
+		</dict>
+		<key>rus_hart</key>
+		<dict>
+			<key>active</key>
+			<true/>
+			<key>first</key>
+			<string>Russel</string>
+			<key>last</key>
+			<string>Hart</string>
+			<key>twitter</key>
+			<string>rus_hart</string>
+			<key>bio</key>
+			<string>Rus Hart is a core member of the Ratpack team, and is working as a Software Engineer for Capgemini UK.
+</string>
+		</dict>
+		<key>svpember</key>
+		<dict>
+			<key>active</key>
+			<true/>
+			<key>first</key>
+			<string>Steve</string>
+			<key>last</key>
+			<string>Pember</string>
+			<key>twitter</key>
+			<string>svpember</string>
+			<key>bio</key>
+			<string><![CDATA[Steve is currently the CTO of ThirdChannel – a startup in Boston, MA – which crowdsources data from thousands of people through their smart phones and then presents that data through visualization and analytic tools in order to improve the operations of large product companies. There, he leads a team building a Reactive, Event-driven platform written mainly on the JVM.
+He was formally a Principal Consultant with Cantina – a technology agency in Boston, MA, USA – which specializes in utilizing the forefront in web technologies to construct top-notch experiences. His passion lies in architecting and developing performant, scalable, full-stack systems for the web. He an avid fan of the Groovy language, is a past speaker at GR8Conf, and is the past organizer of the Boston Grails/Groovy &#038; Spring User Group.
+]]></string>
+		</dict>
+		<key>alotor</key>
+		<dict>
+			<key>active</key>
+			<true/>
+			<key>first</key>
+			<string>Alonso</string>
+			<key>last</key>
+			<string>Torres Ortiz</string>
+			<key>twitter</key>
+			<string>alotor</string>
+			<key>bio</key>
+			<string>Software engineer at Kaleidos Open Source. Alonso has been developing on JVM and Java ecosystem more than 8 years.
+Nowadays he is a full-time Groovy/Grails developer and is co-author and collaborator of several Open Source Grails plugins.
+</string>
+		</dict>
+		<key>beckje01</key>
+		<dict>
+			<key>active</key>
+			<true/>
+			<key>first</key>
+			<string>Jeff</string>
+			<key>last</key>
+			<string>Beck</string>
+			<key>twitter</key>
+			<string>beckje01</string>
+			<key>bio</key>
+			<string>I am an Engineer at SmartThings, based in Minneapolis, Minnesota. I have been doing Grails since 2010.
+I try to be an active member of the local Groovy community as well as an open source contributor, contributing to Grails plugins and Ratpack in my free time. I am very interested in creating code that is easy to maintain and share not only within a team but in the broader community as well.
+Feel free to reach out to me on Twitter @beckje01
+</string>
+		</dict>
+		<key>codingandrey</key>
+		<dict>
+			<key>active</key>
+			<true/>
+			<key>first</key>
+			<string>Andrey</string>
+			<key>last</key>
+			<string>Adamovich</string>
+			<key>twitter</key>
+			<string>codingandrey</string>
+			<key>bio</key>
+			<string>Andrey Adamovich is a software craftsman with many years of experience in different lifecycle phases of software creation. Andrey’s love is JVM ecosystem. In recent years, he tries to apply JVM goodness to DevOps initiatives his company is implementing for several clients. He is one of the authors of Groovy 2 Cookbook as well as frequent speaker at local communities and conferences.
+</string>
+		</dict>
+		<key>marc0der</key>
+		<dict>
+			<key>active</key>
+			<true/>
+			<key>first</key>
+			<string>Marco</string>
+			<key>last</key>
+			<string>Vermeulen</string>
+			<key>twitter</key>
+			<string>marc0der</string>
+			<key>bio</key>
+			<string>Marco Vermeulen is a South African Software Developer who lives and works in London. He is passionate about writing well crafted code, driven and guided by tests.
+As proponent of BDD, he has successfully applied this technique in the Enterprise as well as on Open Source Projects. When he gets a spare moment, he contributes to OSS and is the creator of GVM (the Groovy enVironment Manager).
+</string>
+		</dict>
+		<key>JennStrater</key>
+		<dict>
+			<key>active</key>
+			<true/>
+			<key>first</key>
+			<string>Jennifer</string>
+			<key>last</key>
+			<string>Strater</string>
+			<key>twitter</key>
+			<string>JennStrater</string>
+			<key>bio</key>
+			<string>Jennifer “Jenn” Strater is Co-Founder of Gr8Ladies, an organization for the support women in the Gr8 community. She uses Groovy and Grails daily and is an active participant in the Gr8 community. She regularly attends her local user group, GroovyMN, and annual conferences including Gr8ConfUS. Jenn also presents introductory interactive sessions at various Minnesota tech events including as part of the Gr8Workshops initiative and at national conferences including the Grace Hopper Celebration of Women in Computing.
+</string>
+		</dict>
+		<key>trisha_gee</key>
+		<dict>
+			<key>active</key>
+			<true/>
+			<key>first</key>
+			<string>Trisha</string>
+			<key>last</key>
+			<string>Gee</string>
+			<key>twitter</key>
+			<string>trisha_gee</string>
+			<key>bio</key>
+			<string>Trisha has developed Java applications for a range of industries, including finance, manufacturing and non-profit, for companies of all sizes. She has expertise in Java high performance systems, is passionate about enabling developer productivity, and dabbles with Open Source development. Trisha blogs regularly on subjects that she thinks developers and other humans should care about, she’s a leader of the Sevilla Java User Group, a key member of the London Java Community and a Java Champion – she believes we shouldn’t all have to make the same mistakes again and again.
+</string>
+		</dict>
+		<key>alvaro_sanchez</key>
+		<dict>
+			<key>active</key>
+			<true/>
+			<key>first</key>
+			<string>Alvaro</string>
+			<key>last</key>
+			<string>Sanchez-Mariscal</string>
+			<key>twitter</key>
+			<string>alvaro_sanchez</string>
+			<key>bio</key>
+			<string>Alvaro is a passionate software developer and agile enthusiast with over 14 years of experience. He started his career in 2001 coding in Perl and Java, but then quickly focused on Java EE, working for companies like IBM BCS, BEA Systems or Sun Microsystems.
+He created his own company in 2005, Salenda, and since 2007 he specialised on Groovy/Grails, introducing them in Spain by founding Escuela de Groovy, the very first Grails company in Spain. Now he works as a Web Architect in Odobo, a Gibraltar-based startup with an “App Store”-like marketplace for HTML5 gambling games.
+He is a speaker at conferences like Greach, Codemotion Madrid and Rome, GGX London or GR8Conf Copenhagen. He has also wrote several Grails plugins, including Spring Security REST, which provides RESTful, token based authentication for Grails.
+</string>
+		</dict>
+		<key>russel_winder</key>
+		<dict>
+			<key>active</key>
+			<true/>
+			<key>first</key>
+			<string>Russel</string>
+			<key>last</key>
+			<string>Winder</string>
+			<key>twitter</key>
+			<string>russel_winder</string>
+			<key>bio</key>
+			<string>Independent consultant, analyst, author, expert witness, trainer. Interested in programming and programming languages, concurrency and parallelism, and build.
+</string>
+		</dict>
+		<key>JochenTheodorou</key>
+		<dict>
+			<key>active</key>
+			<true/>
+			<key>first</key>
+			<string>Jochen</string>
+			<key>last</key>
+			<string>Theodorou</string>
+			<key>twitter</key>
+			<string>JochenTheodorou</string>
+			<key>bio</key>
+			<string>Groovy Developer since 2004, paid for doing that since 2006 and enjoying doing that a lot
+</string>
+		</dict>
+		<key>breskeby</key>
+		<dict>
+			<key>active</key>
+			<true/>
+			<key>first</key>
+			<string>Rene</string>
+			<key>last</key>
+			<string>Groeschke</string>
+			<key>twitter</key>
+			<string>breskeby</string>
+			<key>bio</key>
+			<string>Apart on working on the Gradle core, René supports teams all over the world to deliver better software faster by giving in depth Gradle classes and providing remote and onsite support on implementing software automation, continuous delivery and continuous integration patterns. As an principal engineer at Gradleware he’s currently involved in putting the android tooling on the next level.
+He lectured students in agile methologies and was/is involved in other open source projects
+</string>
+		</dict>
+		<key>burtbeckwith</key>
+		<dict>
+			<key>active</key>
+			<true/>
+			<key>first</key>
+			<string>Burt</string>
+			<key>last</key>
+			<string>Beckwith</string>
+			<key>twitter</key>
+			<string>burtbeckwith</string>
+			<key>bio</key>
+			<string>Burt Beckwith has been a software developer for over 15 years, most of that as a JVM developer, and for the last several years working with Grails and Groovy. He was a core developer on the Grails team at SpringSource, and has created over 50 Grails plugins and contributed to dozens more. Burt is a frequent speaker at conferences and user groups where he shares his passion for Grails and other Groovy-based technologies, in particular those that are related to persistence, security, and performance. He blogs at http://burtbeckwith.com/blog/
+</string>
+		</dict>
+		<key>fatimacasau</key>
+		<dict>
+			<key>active</key>
+			<true/>
+			<key>first</key>
+			<string>Fatima</string>
+			<key>last</key>
+			<string>Casau</string>
+			<key>twitter</key>
+			<string>fatimacasau</string>
+			<key>bio</key>
+			<string><![CDATA[I’m software developer for over 7 years, specializing in the world JEE and agile application development with Groovy &#038; Grails. Currently working on Paradigma Tecnológico as Scum Master and Java Architect.
+]]></string>
+		</dict>
+		<key>ysb33r</key>
+		<dict>
+			<key>active</key>
+			<true/>
+			<key>first</key>
+			<string>Schalk</string>
+			<key>last</key>
+			<string>W. Cronjé</string>
+			<key>twitter</key>
+			<string>ysb33r</string>
+			<key>bio</key>
+			<string><![CDATA[Schalk Cronjé’s experience in the software industry spans three decades and has performed most roles in software delivery. He works as a freelance Agile &#038; Lean coach addressing both the bsusiness and technical needs of his clients as applicable. He keeps his technical skills fit by frequent contributions to various open-source projects. He is the maintainer of Groovy-VFS and has a number of Gradle plugins in his bag.
+He is a regular speaker on various software delivery techniques in the UK, USA, India and South Africa. He currently serves as a steering committee member of the Agile Testing Alliance.
+]]></string>
+		</dict>
+		<key>pronoide_fer</key>
+		<dict>
+			<key>active</key>
+			<true/>
+			<key>first</key>
+			<string>Fernando</string>
+			<key>last</key>
+			<string>Redondo Ramírez</string>
+			<key>twitter</key>
+			<string>pronoide_fer</string>
+			<key>bio</key>
+			<string>For the last ten years I’ve been working as a technical trainer specialized in Java/JEE, delivering more than 8000 training hours for professionals and companies all over Spain. Right now, I’ve accepted the challenge of delivering courses all over Europe.
+In the Development training area I spotlight courses of: Spring (Core, AOP, MVC, Remoting, Security, Webflow, WS and Integration modules), Groovy, Grails, Hibernate, JPA, JSF, Maven, EJB3, Struts2, Testing, Patterns, Agile Ecosystems and Extreme Programming.
+Within the Systems area I have taught courses of Application Servers administration, mainly about Tomcat, Websphere, Jboss, Weblogic, Web App Performance Analysis, JVM Tuning and Problem determination on Java/JEE Applications.
+I’ve been running Pronoide for twelve years, an IT company established in Madrid which operates in Spain. Here, I have been in charge of a team of trainers, analysts and programmers, and I am responsible for presales of courses and projects, consulting, technical designs and software development. Currently, I also work for SAP/Hybris as a senior tecnichal trainer.
+</string>
+		</dict>
+		<key>ffoers</key>
+		<dict>
+			<key>active</key>
+			<true/>
+			<key>first</key>
+			<string>Fabian</string>
+			<key>last</key>
+			<string>Förster</string>
+			<key>twitter</key>
+			<string>ffoers</string>
+			<key>bio</key>
+			<string>I am Software engineer who cares deeply about the quality of the products which I help building. From writing clean code and meaningful tests to maintainability and how the software behaves in its natural habitat, i.e. not in my IDE but in production. When not building backend components of distributed systems, I care about my family, martial arts and medieval archery. I am enthusiastic about polyglot programming, DevOps and Science Fiction.
+</string>
+		</dict>
+		<key>saschaklein</key>
+		<dict>
+			<key>active</key>
+			<true/>
+			<key>first</key>
+			<string>Alexander</string>
+			<key>last</key>
+			<string>(Sascha) Klein</string>
+			<key>twitter</key>
+			<string>saschaklein</string>
+			<key>bio</key>
+			<string>Alexander Klein is Principal Consultant at codecentric AG in germany.
+He works for more than 15 years in the java-ecosystem as developer, architect and trainer.
+His interests are UI-development and -ergonomy and development efficency.
+He is an avowed opensource and Groovy follower and Griffon commiter.
+</string>
+		</dict>
+		<key>ilopmar</key>
+		<dict>
+			<key>active</key>
+			<true/>
+			<key>first</key>
+			<string>Iván</string>
+			<key>last</key>
+			<string>López</string>
+			<key>twitter</key>
+			<string>ilopmar</string>
+			<key>bio</key>
+			<string>Iván is a Software Engineer and Systems Administrator with 13 years of experience. He discovered Grails 5 years ago and since then he develops almost exclusively using Groovy. He is the creator of Bokzuy.com and some Grails plugins like Postgresql-Extensions and Slug-Generator.
+He’s also the coordinator of the Madrid Groovy User Group (@madridgug) and the co-organizer of the Greach Conference (http://greachconf.com).
+</string>
+		</dict>
+	</dict>
+	<key>rooms</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Room 1</string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Room 4</string>
+			<key>image</key>
+			<string></string>
+		</dict>
+	</array>
+	<key>tracks</key>
+	<array>
+		<string>Track 1</string>
+		<string>Track 2</string>
+		<string>Track 3</string>
+	</array>
+</dict>
+</plist>
